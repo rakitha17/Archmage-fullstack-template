@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_elements_image_cards",
+  "info": {
+    "displayName": "ImageCard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_services",
+  "info": {
+    "displayName": "Services",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cards": {
+      "displayName": "ImageCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.image-card",
+      "required": false
+    },
+    "heading": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

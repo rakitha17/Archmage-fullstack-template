@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_gallery_component2s",
+  "info": {
+    "displayName": "GalleryComponent2"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
